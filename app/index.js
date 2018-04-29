@@ -8,8 +8,6 @@ import p5 from "p5";
 import dat from "dat.gui";
 import Stats from "stats-js";
 
-console.log("aqui");
-
 // ================================
 // START YOUR APP HERE
 // ================================
